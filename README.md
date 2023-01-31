@@ -35,8 +35,6 @@
 </a>
 </div>
 
- ---
-
 <h2 align="center">
  Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
@@ -52,8 +50,4 @@
 <br>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevrajXD&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=DevrajXD&theme=redical">
-</p> 
+</p>  
