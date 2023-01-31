@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">Technology Stack <img src="https://github.com/warlordsnet/warlordsnet/blob/main/img/warlords-logo.png" width="50"></h2>
+<h2 align="center">Technology Stack 🛠</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c"/>
@@ -20,17 +20,40 @@
 
 - ⚡ Fun fact **I am a football fan.**
 
-<h2 align="center">Warlords Official Socials</h2>
+<h2 align="center">Socials ✨</h2>
 
 <div align="center">
 <a href="https://www.telegram.me/DevUzumaki">
- <img src="https://img.shields.io/badge/-@DevUzumaki-purple?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.me/DevUzumaki"/>
+ <img src="https://img.shields.io/badge/-@DevUzumaki-black?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.me/DevUzumaki"/>
 </a>
-<a href="https://www.instagram.com/warlordsnetwork/">
- <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/warlordsnetwork/"/>
+<a href="https://www.instagram.com/iamvoidwalker/">
+ <img src="https://img.shields.io/badge/-iamvoidwalker-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iamvoidwalker/"/>
 </a>
 
 <a href="https://youtube.com/@HawkRage">
- <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@HawkRage"/>
+ <img src="https://img.shields.io/badge/-warlordsnet-black?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@HawkRage"/>
 </a>
 </div>
+
+ ---
+
+<h2 align="center">
+ Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/DevrajXD/DevrajXD/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+---
+
+<h2 align="center">
+ Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+<br>
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevrajXD&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=DevrajXD&theme=redical">
+</p> 
