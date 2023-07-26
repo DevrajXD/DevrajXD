@@ -14,11 +14,11 @@
 <img src="https://img.shields.io/badge/-Blogger-black?style=flat-square&logo=blogger"/>
 </p>
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **Web Dev + Pentesting**
 
 - 📫 How to reach me **DevrajsinghXD@gmail.com**
 
-- ⚡ Fun fact **I am a football fan.**
+- ⚡ Fun fact **I am Batman**
 
 <h2 align="center">Socials ✨</h2>
 
