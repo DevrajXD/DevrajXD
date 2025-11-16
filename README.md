@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/d69dd87eef8d7175c3fde44a454fb193/f5086ac2846e4387-c1/s540x810/8b53cba0d131fec9dc9df764040e3a2e32210e62.gifv)
+![MasterHead](https://64.media.tumblr.com/d69dd87eef8d7175c3fde44a454fb193/f5086ac2846e4387-c1/s540x810/8b53cba0d131fec9dc9df764040e3a2e32210e62.gifv)
 
 ---
 
@@ -14,11 +14,11 @@
 <img src="https://img.shields.io/badge/-Blogger-black?style=flat-square&logo=blogger"/>
 </p>
 
-- 🌱 I’m currently learning **Web Dev + Pentesting**
+- 🌱 I’m currently learning **CyberSec**
 
 - 📫 How to reach me **DevrajsinghXD@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact **Sec Is Fun**
 
 <h2 align="center">Socials ✨</h2>
 
